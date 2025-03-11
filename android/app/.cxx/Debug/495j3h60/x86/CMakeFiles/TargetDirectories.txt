@@ -1,0 +1,2 @@
+D:/UPNVY/Semester 06/Teknologi dan Pemrograman Mobile/tugas2/TPM_Project-1-Kalkulator-Mobile/android/app/.cxx/Debug/495j3h60/x86/CMakeFiles/edit_cache.dir
+D:/UPNVY/Semester 06/Teknologi dan Pemrograman Mobile/tugas2/TPM_Project-1-Kalkulator-Mobile/android/app/.cxx/Debug/495j3h60/x86/CMakeFiles/rebuild_cache.dir
